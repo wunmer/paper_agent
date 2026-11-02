@@ -1,0 +1,33 @@
+[
+    {
+        "paper_id":"decision curve analysis",
+        "title":"Decision curve analysis: a novel methOd for evaluating prediction models",
+        "year":2006,
+        "file":"decision curve analysis.pdf",
+        "topic":"a novel method for evaluating prediction models"
+    },
+
+    {
+        "paper_id":"minimum sample size",
+        "title":"Minimum sample size for developing a multivariable prediction model: PART II - binary and time-to event outcomes",
+        "year":2018,
+        "file":"minimum sample size.pdf",
+        "topic":"minimum sample size for developing a multivariable prediction model"
+    },
+
+    {
+        "paper_id":"transparent multivariable prediction",
+        "title":"Transparent reporting Of a multivariable prediction model for individual prognosis or diagnosis (TRI POD) : the TRIPOD statement",
+        "year":2014,
+        "file":"transparent multivariable prediction.pdf",
+        "topic":"transparent reporting of a multivariable prediction model"
+    },
+
+    {
+        "paper_id":"AI for upgrated guidance",
+        "title":"TRIPOD+AI statement: updated guidance for reporting clinical prediction models that use regression or machine leaming methods",
+        "year":2024,
+        "file":"AI for upgrated guidance.pdf",
+        "topic":"upgrated guidance for reporting clinical prediction models"
+    }
+]

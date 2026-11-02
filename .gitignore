@@ -1,0 +1,34 @@
+# API keys
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Local PDFs and OCR output
+data/papers/*.pdf
+storage/extracted/
+storage/chunks.json
+
+# Tesseract model files
+models/tessdata/
+
+# Raw evaluation outputs containing retrieved passages
+eval/results/
+
+# OS
+.DS_Store
+Thumbs.db
